@@ -49,3 +49,8 @@ In this project, historical stock data is analyzed and used to build predictive 
 1. Clone the repository:
    ```bash
    git clone https://github.com/HariharanV11/Stock-price-prediction.git
+   ### ▶️ Run the Streamlit Web App
+2. After cloning this repository, run the following command in **Command Prompt / Terminal**:
+
+```bash
+streamlit run app.py
